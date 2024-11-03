@@ -21,17 +21,12 @@ Application Support, Devops
 
 ### Socials
 
-<p align="left">
-  <!-- GitHub Icon -->
-  <a href="https://github.com/hjoseph777" target="_blank" rel="noreferrer">
-    <picture>
-      <!-- Dark mode icon (white GitHub icon) -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <!-- Light mode icon (black GitHub icon) -->
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
+**Dark Mode**: When your GitHub theme is set to dark mode, the `github-dark.svg` icon (white GitHub icon) will be displayed.
+
+**Light Mode**: When your GitHub theme is set to light mode, the `github.svg` icon (black GitHub icon) will be displayed.
+
+
+
   <brP><br>
   <brP><br>
   <a href="https://www.linkedin.com/in/harry-j-1538023/" target="_blank" rel="noreferrer">

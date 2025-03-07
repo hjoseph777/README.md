@@ -12,7 +12,7 @@ Application Support, Devops     [My Repositories](https://github.com/hjoseph777?
 I'm an application Support Analyst with a passion for DevOps, SQL, Linux, cloud applications, AI, and voice-to-text automation. I’m currently focused on enhancing my skills in full-stack development and AI applications].
 
 ### 💼 Experience
-- **15 years of experience** in IT, with expertise in application support, incident and problem management, and ITIL.
+- **15 years of experience** in IT, with expertise in application support, incident and problem management, AML, service-now and ITIL.
 - **Application support background** from companies like TD, BMO, and Rogers.
 - Hands-on experience in **voice-to-text conversion projects**, **Whisper**, **Fast Whisper**, and **GPT-2** for local model deployment.
 

@@ -5,7 +5,7 @@ Hi 👋 My name is Harry Joseph
 
 * 🌍  I'm based in Canada
 
-Application Support, Devops     [My Repositories](https://github.com/hjoseph777?tab=repositories)
+Application Support, Lead Devops     [My Repositories](https://github.com/hjoseph777?tab=repositories)
 ---------------------------
 
 ### 🌐 About Me

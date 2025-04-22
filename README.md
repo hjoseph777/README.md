@@ -9,7 +9,7 @@ Application Support, Lead Devops     [My Repositories](https://github.com/hjosep
 ---------------------------
 
 ### 🌐 About Me
-I'm an application Support Analyst with a passion for DevOps, SQL, Linux, cloud applications, AI, and voice-to-text automation. I’m currently focused on enhancing my skills in full-stack development and AI applications].
+I'm an application Support Analyst with a passion for DevOps, SQL, Linux, Python, cloud applications, AI, and voice-to-text automation. I’m currently focused on enhancing my skills in full-stack development and AI applications].
 
 ### 💼 Experience
 - **15 years of experience** in IT, with expertise in application support, incident and problem management, AML, service-now and ITIL.

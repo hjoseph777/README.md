@@ -15,6 +15,7 @@ I'm an application Support Analyst with a passion for DevOps, SQL, Linux, Python
 - **15 years of experience** in IT, with expertise in application support, incident and problem management, AML, Monitoring of critical applications, service-now and ITIL.
 - **Application support background** from companies like TD, BMO, and Rogers.
 - Hands-on experience in **voice-to-text conversion projects**, **Whisper**, **Fast Whisper**, and **GPT-2** for local model deployment.
+- Possesses additional experience in monitoring systems, IBM Z, ITRS Geneos, Splunk, and Datadog."
 
 
 ### 💻 My Projects

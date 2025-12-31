@@ -16,7 +16,7 @@
 ## 🚀 Featured Projects
 
 ### 🎓 [CourseCompass](https://github.com/hjoseph777/Compass) — AI-Powered Academic Navigation Platform
-> **Production-Ready | Dec 2025**
+> **Current Dev Production-Ready | Mid 2026 Author developer Harry Joseph*
 
 An intelligent platform helping Ontario students discover, compare, and plan educational pathways across postsecondary institutions. **Think "Google for college programs" with AI counselling.**
 

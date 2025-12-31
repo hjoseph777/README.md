@@ -1,92 +1,246 @@
-<img src="https://avatars.githubusercontent.com/u/30031213?v=4" width="100" align="left" style="border-radius: 50%;" />
+# Hi 👋 I'm Harry Joseph
 
-Hi 👋 My name is Harry Joseph
-=============================
+### Application Support Analyst | DevOps Engineer | Full-Stack Developer
 
-* 🌍  I'm based in Canada
+🌍 **Based in:** Canada  
+💼 **Experience:** 15+ years in IT & Application Support  
+🎓 **Focus:** Full-stack development, AI/LLM applications, DevOps automation  
+💡 **Currently:** Building production-grade AI-powered web applications
 
-Application Support, Lead Devops     [My Repositories](https://github.com/hjoseph777?tab=repositories)
----------------------------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-hjoseph777%40gmail.com-red?logo=gmail)](mailto:hjoseph777@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=github)](https://github.com/hjoseph777)
 
-### 🌐 About Me
-I'm an application Support Analyst with a passion for DevOps, SQL, Linux, Python, cloud applications, AI, java, .net and voice-to-text automation. I’m currently focused on enhancing my skills in full-stack development and AI applications].
+---
 
-### 💼 Experience
-- **15 years of experience** in IT, with expertise in application support, incident and problem management, AML, Monitoring of critical applications, service-now and ITIL.
-- **Application support background** from companies like TD, BMO, and Rogers.
-- Hands-on experience in **voice-to-text conversion projects**, **Whisper**, **Fast Whisper**, and **GPT-2** for local model deployment.
-- Possesses additional experience in monitoring systems, IBM Z, ITRS Geneos, Splunk, and Datadog."
+## 🚀 Featured Projects
 
+### 🎓 [CourseCompass](https://github.com/hjoseph777/Compass) — AI-Powered Academic Navigation Platform
+> **Production-Ready | Dec 2025**
 
-### 💻 My Projects
-- **Mobile Punch Clock**: A full-stack cloud application for bus drivers to log driving and non-driving time, rounding off to 15-minute intervals.
-- **Interview Assistant**: A conversational assistant that provides real-time answers, powered by Whisper for voice-to-text conversion and OpenAI's GPT-2 for local question-answering.
-- [repositories](https://github.com/hjoseph777?tab=repositories)
+An intelligent platform helping Ontario students discover, compare, and plan educational pathways across postsecondary institutions. **Think "Google for college programs" with AI counselling.**
 
-### 📚 Currently Learning
-- **Java and OOP concepts** to enhance programming skills.
-- ** Full-stack, Advanced AI and LLM technologies** with a goal to specialize in business automation and support applications.
+**Tech Stack:**
+- **Frontend:** Next.js 14, TypeScript, Tailwind CSS, Zustand, React Query
+- **Backend:** FastAPI, SQLAlchemy 2.0, Pydantic v2, PostgreSQL 15
+- **AI/ML:** Ollama (Mistral 7B), Gemini AI, LLM-powered data extraction
+- **DevOps:** Docker, Docker Compose, Alembic migrations, GitHub Actions
+- **Data Engineering:** Firecrawl, custom web scrapers, ethical data collection
 
-### 🌱 Fun Facts
-- I’m a multilingual speaker (English, French, Spanish).
-- Enjoy learning new technology stacks and diving into architectural concepts.
+**Key Features:**
+- 🔍 Search & compare 228+ programs across Ontario institutions
+- 🤖 AI counsellor with 24/7 conversational guidance
+- 📊 Real-time career outcomes (salaries, employment rates, job titles)
+- 🎯 Side-by-side program comparison with 4,000+ course descriptions
+- 🔐 Google OAuth authentication with user favorites system
+- 📱 Responsive UI with dark mode support
 
+**Architecture Highlights:**
+- Three-tier architecture (Next.js → FastAPI → PostgreSQL)
+- RESTful API with OpenAPI documentation (`/docs`)
+- UUID-based data models with hierarchical relationships
+- Ethical web scraping with rate limiting & robots.txt compliance
+- Multi-cloud deployment strategy (Vercel + Render + Railway)
 
+```
+Next.js Frontend ──REST API──> FastAPI Backend ──SQL──> PostgreSQL
+     ├─ Zustand state             ├─ SQLAlchemy ORM        ├─ Alembic migrations
+     ├─ React Query cache         ├─ Pydantic validation   └─ UUID primary keys
+     └─ Tailwind CSS              └─ Google OAuth
+```
 
-* 🧠  I'm learning react,angular, java
-* 🤝  I'm open to collaborating on My mobile punch clock project is a full-stack cloud application designed for bus drivers to keep a log of their driving and non-driving time. The application calculates time accurately and rounds off to the nearest 15 minutes, helping drivers maintain precise records of their work hours in a simple and efficient way.
-* ⚡  I enjoy thriller movies and soccer
+**Impact:** Aggregates 4,000+ courses from multiple institutions into a single searchable platform, reducing program discovery time from hours to minutes.
 
-### Skills
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+### 🚌 [Mobile Punch Clock](https://github.com/hjoseph777/MobilePunchClock) — Cross-Platform Time Tracking
+> **C# | .NET MAUI | Cloud-Native**
 
+Full-stack mobile application for bus drivers to log driving/non-driving hours with automatic 15-minute interval rounding.
 
-### Socials
-### 📫 Connect with Me
+**Key Features:**
+- Cross-platform (Android/iOS) with .NET MAUI
+- Cloud-based time synchronization
+- Accurate time calculation with automatic rounding
+- Offline-first architecture with sync capability
 
-[![GitHub](https://img.shields.io/badge/GitHub-FF0000?style=flat-square&logo=github&logoColor=white)](https://github.com/hjoseph777)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-j-1538023/)
-* ✉️  You can contact me at [hjoseph777@gmail.com](mailto:hjoseph777@gmail.com)
+⭐ **4 stars** | Used by real transit drivers for daily time management
 
+---
 
+### 🎬 [MoviesLand](https://github.com/hjoseph777/MoviesLand) — Movie Discovery Application
+> **React | JavaScript | OMDB API**
 
-<!--
-  <brP><br>
-  <brP><br>
-  <a href="https://www.linkedin.com/in/harry-j-1538023/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>
-</p>
--->
+Dynamic movie search platform with real-time API integration.
 
-### Badges
+**Features:**
+- Real-time movie search with OMDB API
+- Responsive UI with poster galleries
+- Filter by genre, year, and rating
+- Detailed movie information cards
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/hjoseph777"><img src="https://github-readme-stats.vercel.app/api?username=hjoseph777&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="hjoseph777's GitHub stats" /></a>
+### 📚 [AH BookStore](https://github.com/hjoseph777/AHBookStoreFinalProject) — E-Commerce Platform
+> **Python | Django | PostgreSQL**
 
-<a href="http://www.github.com/hjoseph777"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hjoseph777&stroke=ffffff&background=1c1917&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+Full-featured online bookstore with shopping cart and payment integration.
 
+**Features:**
+- User authentication & authorization
+- Shopping cart with session management
+- Inventory management system
+- Admin dashboard for order processing
 
-<a href="https://github.com/hjoseph777" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjoseph777&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+### 🍽️ [Cherry Hill Restaurant Feedback](https://github.com/hjoseph777/CherryHillRestaurantFeedback) — Customer Feedback System
+> **TypeScript | React | Firebase**
 
-<div width="100%" align="center"><a href="https://github.com/hjoseph777/javaBankAccount" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hjoseph777&repo=javaBankAccount&title_color=64748b&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+Real-time customer feedback platform with analytics dashboard.
 
-### Support Me
+**Features:**
+- Real-time sentiment analysis
+- Interactive dashboard with charts
+- Customer satisfaction tracking
+- Manager notification system
 
-<ul style="list-style-type: none; margin: 0;">
+---
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/hjoseph777"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+### ☁️ [Weather Dashboard](https://github.com/hjoseph777/WeatherDashboard) — Weather Forecast Application
+> **JavaScript | OpenWeatherMap API**
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/hjoseph777"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+Multi-city weather tracking with forecast visualization.
 
-</ul>
+**Features:**
+- 5-day weather forecasts
+- Multiple location tracking
+- Dynamic weather icons
+- Responsive design
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-007396?logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Advanced-239120?logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Proficient-4EAA25?logo=gnubash&logoColor=white)
+
+### Frameworks & Libraries
+**Frontend:** Next.js 14, React, Angular, Zustand, React Query, Tailwind CSS  
+**Backend:** FastAPI, Django, Node.js, Express, .NET Core  
+**AI/ML:** Ollama, LangChain, OpenAI GPT, Whisper, Gemini AI  
+**ORM/Database:** SQLAlchemy 2.0, Alembic, PostgreSQL, Oracle DB
+
+### DevOps & Cloud
+**Platforms:** AWS, Google Cloud, Azure, Vercel, Render, Railway  
+**Containers:** Docker, Docker Compose  
+**CI/CD:** GitHub Actions  
+**Monitoring:** Splunk, Datadog, IBM ITRS Geneos, Prometheus, Grafana  
+**Version Control:** Git, GitHub
+
+### Tools & Methodologies
+- **Testing:** Pytest, Jest, unittest, functional testing
+- **API Design:** RESTful APIs, OpenAPI/Swagger, FastAPI documentation
+- **Databases:** PostgreSQL, Oracle, MySQL, Redis
+- **Data Engineering:** Web scraping (BeautifulSoup, Selenium, Firecrawl), ETL pipelines
+- **ITSM:** ServiceNow, ITIL v4, Incident/Problem Management
+- **Agile:** Scrum, Kanban, Jira
+
+---
+
+## 🏢 Professional Experience
+
+**15+ Years in IT & Application Support**
+
+- **Application Support Analyst** — Expertise in monitoring critical systems (IBM Z, ITRS Geneos, Splunk)
+- **DevOps Engineer** — Infrastructure automation, CI/CD pipelines, cloud deployment
+- **Enterprise Experience** — TD Bank, BMO Financial, Rogers Communications
+- **Compliance & Security** — AML (Anti-Money Laundering) system monitoring, incident response
+- **ITIL Certified** — Incident, problem, and change management
+
+**Key Achievements:**
+- ✅ Maintained 99.9% uptime for critical banking applications
+- ✅ Automated deployment pipelines reducing release time by 60%
+- ✅ Built AI-powered tools for real-time customer support analysis
+- ✅ Migrated legacy applications to cloud-native architectures
+
+---
+
+## 🎯 Current Focus
+
+🌱 **Learning:** Advanced React patterns, microservices architecture, Kubernetes  
+🔭 **Building:** AI-powered business automation tools with LLMs  
+🤝 **Open to:** Collaborating on full-stack AI applications, DevOps automation projects  
+💬 **Ask me about:** FastAPI, Next.js, PostgreSQL, Docker, AI/LLM integration, application monitoring
+
+---
+
+## 🌍 Languages
+
+- 🇬🇧 **English** — Native
+- 🇫🇷 **French** — Fluent
+- 🇪🇸 **Spanish** — Conversational
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjoseph777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hjoseph777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hjoseph777&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Contribution Highlights
+
+- 📦 **125 Public Repositories** — Active open-source contributor
+- 🎯 **798 Contributions** (Last Year) — Consistent development activity
+- ⭐ **Featured Projects** — MobilePunchClock, CourseCompass, MoviesLand
+- 🌟 **Recent Work** — AI-powered applications with production-grade architecture
+
+---
+
+## ⚡ Fun Facts
+
+- 🎬 Enjoy thriller movies and analyzing plot structures
+- ⚽ Soccer enthusiast — watch and play
+- 🧠 Passionate about system architecture and scalable design patterns
+- 🌱 Always learning new tech stacks — currently exploring AI/LLM applications
+- 🤖 Building AI agents for real-world business problems
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in discussing:
+- 💼 **Job opportunities** in full-stack development, DevOps, or AI/ML engineering
+- 🤝 **Collaboration** on open-source AI/web applications
+- 💡 **Tech discussions** about system architecture, cloud deployment, or LLM integration
+- 🎓 **Mentorship** in application support, DevOps practices, or full-stack development
+
+**Reach out:**
+- 📧 Email: [hjoseph777@gmail.com](mailto:hjoseph777@gmail.com)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+- 🌐 Portfolio: [github.com/hjoseph777](https://github.com/hjoseph777)
+
+---
+
+<div align="center">
+
+### 🚀 "Building intelligent systems that solve real-world problems"
+
+![Profile Views](https://komarev.com/ghpvc/?username=hjoseph777&color=blueviolet&style=flat-square)
+
+</div>

@@ -226,9 +226,9 @@ Multi-city weather tracking with forecast visualization.
 
 ## 🌍 Languages
 
-- 🇬🇧 **English** — Native
+- 🇬🇧 **English** — Fluent
 - 🇫🇷 **French** — Fluent
-- 🇪🇸 **Spanish** — Conversational
+- 🇪🇸 **Spanish** — Fluent
 
 ---
 

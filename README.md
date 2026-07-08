@@ -19,10 +19,10 @@
 > **React 18 | Vite | Electron | XState | Docker**
 > **Phase I POC — Live Demo:** [provisio-theta.vercel.app](https://provisio-theta.vercel.app/)
 
-An AI-powered automation platform that eliminates **triple manual entry** in M-Files workflow deployments — replacing 4–6 hours of consultant work with a single 10-minute SOW-to-vault pipeline[...]
+An AI-powered automation platform that eliminates **triple manual entry** in M-Files workflow deployments — replacing 4–6 hours of consultant work with a single 10-minute SOW-to-vault pipeline.
 
 **The Problem Solved:**  
-Every M-Files workflow deployment traditionally requires the same logic written three times by hand (SOW document → diagram → M-Files Admin). Proviso collapses all three steps into one, using [...]
+Every M-Files workflow deployment traditionally requires the same logic written three times by hand (SOW document → diagram → M-Files Admin). Proviso collapses all three steps into one, using a structured workflow.json as the single source of truth.
 
 **Tech Stack:**
 - **Frontend:** React 18, Vite, Tailwind CSS, Mermaid.js, Zustand
@@ -294,9 +294,7 @@ Multi-city weather tracking with forecast visualization.
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hjoseph777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<img src="https://streak-stats.demolab.com?user=hjoseph777&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hjoseph777&theme=tokyonight&hide_border=true" alt="GitHub Streak Backup" />
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=hjoseph777&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
